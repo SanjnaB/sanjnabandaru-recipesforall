@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <ValueProvider value={data}>
-        <About/>
+        <HomeScreen/>
     </ValueProvider>
   )
 }
